@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qhWR0vA71E0h8o1gJGaBMnyclp9eyX4EZbgfikMRzpwDUwxo+HCltU3cWChQ170ra4Sz66P4ryd05A+JGsU4Nw==",
+  "dgSpecHash": "sOXlmeukt9rMog/tPl8vQtQkmuLi9Y7gsaEWJPyfAsgo3OL530ttqI33FDJSXbFZQXmckMirTAMxAKRsAJ/ukw==",
   "success": true,
   "projectFilePath": "C:\\Users\\LiZhiqiang\\Desktop\\MVVM_Demo\\Students01\\Students.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\LiZhiqiang\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512"
+  ],
   "logs": []
 }

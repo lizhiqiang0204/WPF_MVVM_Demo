@@ -38,3 +38,5 @@ C:\Users\LiZhiqiang\Desktop\MVVM_Demo\Students01\obj\Debug\netcoreapp3.1\Student
 C:\Users\LiZhiqiang\Desktop\MVVM_Demo\Students01\obj\Debug\netcoreapp3.1\Students.dll
 C:\Users\LiZhiqiang\Desktop\MVVM_Demo\Students01\obj\Debug\netcoreapp3.1\Students.pdb
 C:\Users\LiZhiqiang\Desktop\MVVM_Demo\Students01\obj\Debug\netcoreapp3.1\Students.genruntimeconfig.cache
+C:\Users\LiZhiqiang\Desktop\MVVM_Demo\Students01\bin\Debug\netcoreapp3.1\Prism.dll
+C:\Users\LiZhiqiang\Desktop\MVVM_Demo\Students01\obj\Debug\netcoreapp3.1\Students.csproj.CopyComplete

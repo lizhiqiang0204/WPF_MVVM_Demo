@@ -34,7 +34,7 @@
             <TextBlock Text="{Binding StudentModel.Age}" Grid.Column="3" />
             <TextBlock Text="性别：" Grid.Column="4" HorizontalAlignment="Right" />
             <TextBlock Text="{Binding StudentModel.Sex}" Grid.Column="5"/>
-            <Button Content="更新" Grid.Column="6" Click="BtnClick" />
+            <Button Content="更新" Grid.Column="6" Command="{Binding CommadUpdata}" />
 
         </Grid>
         <Grid x:Name ="TeacherGrid"  Grid.Row ="1">
@@ -58,7 +58,7 @@
             <TextBlock Text="{Binding TeacherModel.Age}" Grid.Column="3" />
             <TextBlock Text="性别：" Grid.Column="4" HorizontalAlignment="Right" />
             <TextBlock Text="{Binding TeacherModel.Sex}" Grid.Column="5"/>
-            <Button Content="更新" Grid.Column="6" Click="BtnClickTeacher" />
+            <Button Content="更新" Grid.Column="6" Command="{Binding CommadUpdata}" />
 
         </Grid>
     </Grid>
